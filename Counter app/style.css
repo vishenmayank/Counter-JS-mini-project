@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(156, 255, 250);
+    color: rgba(100, 59, 59, 0.877);
+}
+.count{
+    font-size: 3rem;
+}
+
+
+button {
+    padding: 10px 16px;
+    background-color: beige;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    
+}
+.changeBy{
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+    margin: 16px 8px;
+    
+}
+.incdec{
+    font-weight: 500;
+}
